@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//ghuiyy
 int main(){
   int age;
 printf("Enter age: ");
